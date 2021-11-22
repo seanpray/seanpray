@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi there
 
-<!--
-**NotCreative21/NotCreative21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student who's interested in Computer Science, Linux, space, and other related topics.
 
-Here are some ideas to get you started:
+**Distro:** Void Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**WM:** dwm
+
+**term:** st
+
+Currently, I'm learning Rust(🚀) for some small projects.
+
+You can reach me on discord: NotCreative#0041
