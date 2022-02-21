@@ -11,6 +11,9 @@ My current interest include Rust, C, Docker, Linux, and more.
 ##### activity
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ##### ssh 
