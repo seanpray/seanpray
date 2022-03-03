@@ -1,12 +1,12 @@
 <img src="./rust-meme.png" width="35%" align="right" left="20px">
 <img src="./gentoo.png" width="15%" left="20px">
 
-##### hey! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=NotCreative21.NotCreative21) 
+##### hey! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=notseanray.notseanray) 
 I'm a highschooler interested in backend/fullstack development. 
 
 My current interest include Rust, C, Docker, Linux, and more.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotCreative21&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notseanray&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### activity
 
