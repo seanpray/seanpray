@@ -5,8 +5,9 @@
 I'm a highschooler interested in backend/fullstack development. 
 
 My current interest include Rust, C, Docker, Linux, and more.
+![@notseanray GitHub stats](https://github-readme-stats.vercel.app/api?username=notseanray&show_icons=true&theme=calm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notseanray&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notseanray&langs_count=8&theme=calm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### activity
 
