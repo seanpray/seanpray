@@ -2,10 +2,14 @@
 <img src="./gentoo.png" width="15%" left="20px">
 
 ##### hey! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=seanpray.seanpray) 
-I'm a highschooler interested in backend/fullstack development. 
+
+
+I'm a student interested in backend/fullstack development. 
 
 My current interest include Rust, C, Docker, Linux, and more.
-![@notseanray GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpray&show_icons=true&theme=calm)
+
+
+![@seanpray GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpray&show_icons=true&theme=calm)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=seanpray&theme=dark)](https://git.io/streak-stats)
 
