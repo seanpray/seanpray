@@ -1,7 +1,7 @@
 <img src="./rust-meme.png" width="35%" align="right" left="20px">
 <img src="./gentoo.png" width="15%" left="20px">
 
-##### hey! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=seanpray.seanpray) 
+##### hey!
 
 
 I'm a student interested in backend/fullstack development. 
