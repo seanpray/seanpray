@@ -9,27 +9,11 @@ I'm a student interested in backend/fullstack development.
 My current interest include Rust, C, Docker, Linux, and more.
 
 
-![@seanpray GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpray&show_icons=true&theme=calm)
+<!--![@seanpray GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpray&show_icons=true&theme=calm)-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=seanpray&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpray&langs_count=8&theme=calm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-##### activity
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 July 2026 - To: 31 July 2026
-
-Markdown   30 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   77.48 %
-Python     8 mins                ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.26 %
-JSON       0 secs                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.71 %
-TOML       0 secs                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 %
-Go         0 secs                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.17 %
-```
-
-<!--END_SECTION:waka-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpray&langs_count=8&theme=calm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ##### ssh 
 
